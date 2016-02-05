@@ -1,0 +1,28 @@
+name: REVERBALIST
+favicon: null
+layout_spectrum: 0.3333667239639908
+typography_spectrum: 0.5808590170927346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.08055048203095794
+  lightness: 0.7942641535773873
+  saturation: 0.3616306185722351
+  rhythmicContrast: 0.06793286371976137
+purpose: []
