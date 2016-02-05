@@ -1,7 +1,7 @@
 name: REVERBALIST
 favicon: null
-layout_spectrum: 0.3333667239639908
-typography_spectrum: 0.5808590170927346
+layout_spectrum: 1
+typography_spectrum: 0.06007
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.08055048203095794
-  lightness: 0.7942641535773873
-  saturation: 0.3616306185722351
-  rhythmicContrast: 0.06793286371976137
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
